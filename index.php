@@ -17,8 +17,8 @@
  * The main scripts to load our js files.
 ****************************************************************/
 -->
-<script>
-<script src="//play.battleserver.net/js/comingsoon.js"></script>
 </script>
+<script src="//play.battleserver.net/js/comingsoon.js"></script>
+<script>
 </body>
 </html>
