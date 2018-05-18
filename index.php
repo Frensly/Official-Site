@@ -20,5 +20,3 @@
 </script>
 <script src="//play.battleserver.net/js/comingsoon.js"></script>
 <script>
-</body>
-</html>
